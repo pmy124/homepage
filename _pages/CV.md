@@ -38,11 +38,11 @@ accuracy as a criterion to measure the risk of training samples. -->
 - Complete a cminus-f compiler using flex and bison, including the kernel function of a compiler front-end, and some optimization, e.g. const propagation. Finish extra optimization tasks, e.g. dynamic dead code elimination. -->
 
 
-<!-- <h5 class="category">  Undergraduate Research Program <span style="float:right;">June 2020 - Sep 2020</span></h5>
+<h5 class="category">  Undergraduate Research Program <span style="float:right;">June 2020 - Sep 2020</span></h5>
 
 - Study influencing factors of neural network pruning strategy
 - Supervisor: Prof. <a href="http://staff.ustc.edu.cn/~bhua/">Bei Hua</a> at USTC
-- Based on a mainstream model (YOLOv3) in object detection research, reproduce a pruning method (Network Slimming) and train new pruned models on different datasets. Choose 3 datasets of different degrees of complexity, and study the influence of datasets on pruning strategies for object detection task. -->
+<!-- - Based on a mainstream model (YOLOv3) in object detection research, reproduce a pruning method (Network Slimming) and train new pruned models on different datasets. Choose 3 datasets of different degrees of complexity, and study the influence of datasets on pruning strategies for object detection task. -->
 <br/><br/>
 
 ### TA Experience
